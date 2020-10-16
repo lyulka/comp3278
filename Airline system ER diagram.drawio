@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T09:36:31.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="FlVuwdbKAWCowCzFrwJz" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T09:52:00.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="YQawufM7Oha4Ao4fKNPK" version="13.8.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1209" dy="675" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="706" dy="665" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,11 +172,11 @@
         <mxCell id="omaE2LV8dUg3B53Vwz0E-200" value="Of model" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="590" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="omaE2LV8dUg3B53Vwz0E-201" value="Rated to fly" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="omaE2LV8dUg3B53Vwz0E-201" value="Type rating" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="145" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="omaE2LV8dUg3B53Vwz0E-83" value="Pilot" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="390" width="180" height="50" as="geometry" />
+          <mxGeometry x="10" y="390" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="omaE2LV8dUg3B53Vwz0E-84" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="omaE2LV8dUg3B53Vwz0E-83" vertex="1">
           <mxGeometry y="20" width="180" height="30" as="geometry" />
@@ -185,6 +185,15 @@
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="omaE2LV8dUg3B53Vwz0E-86" value="employee_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="omaE2LV8dUg3B53Vwz0E-84" vertex="1">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UBEAjOzkYKkPeFaZ0rmT-7" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="omaE2LV8dUg3B53Vwz0E-83">
+          <mxGeometry y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UBEAjOzkYKkPeFaZ0rmT-8" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="UBEAjOzkYKkPeFaZ0rmT-7">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UBEAjOzkYKkPeFaZ0rmT-9" value="license_number" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="UBEAjOzkYKkPeFaZ0rmT-7">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="omaE2LV8dUg3B53Vwz0E-223" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="omaE2LV8dUg3B53Vwz0E-96" target="omaE2LV8dUg3B53Vwz0E-199" edge="1">
