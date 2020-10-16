@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T13:20:53.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="YY-z7cgaeU9Tz9yL30hJ" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T13:22:16.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="bE5w39gVqU0sjZLfZSoR" version="13.8.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1209" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -268,7 +268,7 @@
         <mxCell id="ANdxx_CYp_t5Oq0apcEf-127" value="subtotal_price" style="text;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=4;strokeColor=#000000;" parent="ANdxx_CYp_t5Oq0apcEf-125" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ANdxx_CYp_t5Oq0apcEf-142" value="customer" style="text;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeColor=#000000;fontStyle=0" parent="ANdxx_CYp_t5Oq0apcEf-125" vertex="1">
+        <mxCell id="ANdxx_CYp_t5Oq0apcEf-142" value="purchaser" style="text;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeColor=#000000;fontStyle=0" parent="ANdxx_CYp_t5Oq0apcEf-125" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ANdxx_CYp_t5Oq0apcEf-129" value="tax_and_services" style="text;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeColor=#000000;fontStyle=0" parent="ANdxx_CYp_t5Oq0apcEf-125" vertex="1">
